@@ -62,7 +62,7 @@ export default function Portfolio() {
             href="#"
             className="text-blue-500 dark:text-blue-400 hover:underline"
           >
-            Twitter
+            Meta
           </a>
           <a
             href="#"
